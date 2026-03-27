@@ -13,7 +13,7 @@ I'm currently working on Web Development.<br>I'm currently learning React.js and
 ![](https://nirzak-streak-stats.vercel.app/?user=SaiSawMongMarma&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSawMongMarma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SaiSawMongMarma&theme=radical) ![Sai Saw Mong GitHub stats]
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SaiSawMongMarma&theme=radical)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaiSawMongMarma&icon=0&color=0)](https://visitcount.itsvg.in)
