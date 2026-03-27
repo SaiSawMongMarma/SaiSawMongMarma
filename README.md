@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web Development.<br>I'm currently learning React and Node.js.
+I'm currently working on Web Development.<br>I'm currently learning React.js and Node.js.
 
 
 ## 🌐 Socials:
