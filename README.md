@@ -11,6 +11,9 @@ I'm currently working on Web Development.<br>I'm currently learning React.js and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSawMongMarma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=SaiSawMongMarma&layout=compact&theme=radical" alt="Top Languages" />
+<br/>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SaiSawMongMarma&theme=radical)<br/>
 
 ---
