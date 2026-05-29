@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently I'm working on Web Development.</br>
-Learning Enterprise Java Spring Microservice Development.
+Learning Enterprise Java Spring Microservices Development.
 
 
 ## 🌐 Socials:
