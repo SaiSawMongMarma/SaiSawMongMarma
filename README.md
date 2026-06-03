@@ -11,7 +11,7 @@ Learning Enterprise Java Spring Microservices Development.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiSawMongMarma&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pratush26&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SaiSawMongMarma&theme=default)](https://git.io/streak-stats)
 <br/>
 
 <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=SaiSawMongMarma&layout=compact&theme=radical" alt="Top Languages" />
